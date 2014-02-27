@@ -1,4 +1,9 @@
 DaynixIsHiring
 ==============
 
-What a job? Send pull requests!
+What a job? 
+
+* Fork
+* Code
+* Send pull request
+

@@ -5,5 +5,5 @@ What a job?
 
 * Fork
 * Code
-* Send pull request
+* Send us patch
 

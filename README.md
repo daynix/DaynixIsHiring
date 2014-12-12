@@ -1,7 +1,7 @@
 DaynixIsHiring
 ==============
 
-What a job? 
+Want a job? 
 
 * Fork
 * Code

@@ -3,14 +3,10 @@
 //       call alarm() in case of overflow/underflow happened during the life
 //       time of the program
 //
-// TIP: go to http://www.compileonline.com/compile_c_online.php
-//      for an online IDE
-//
-// Send code to jobs@daynix.com
 //
 
-#include <malloc.h>
 #include <stdlib.h>
+#include <stdio.h>
 
 void alarm()
 {
@@ -20,7 +16,7 @@ void alarm()
 
 void *our_malloc(size_t size)
 {
-    printf("ALLOC %d bytes\n", size);
+    printf("ALLOC %zu bytes\n", size);
     return malloc(size);
 }
 
